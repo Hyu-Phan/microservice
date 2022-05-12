@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/user",
+    "method": "POST",
+    "rabbit": "rpc"
+  },
+  {
+    "path": "/user/login",
+    "method": "POST",
+    "rabbit": "rpc"
+  },
+  {
+    "path": "/user/authentication",
+    "method": "POST",
+    "rabbit": "rpc"
+  }
+]
